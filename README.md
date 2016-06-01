@@ -3,7 +3,7 @@
 Mysite project is a simple blog app, with no advanced features that will be used a example for my students in my Django begginer course.
 This project is intended to be builded by the students during the course.
 
-You can see a demo [here](http://italosds.pythonanywhere.com)
+You can see a demo [here](http://italosds.pythonanywhere.com/blog)
 
 ##Topics covered
 >* Installing django
